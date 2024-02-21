@@ -46,13 +46,9 @@ Sobre mim
 ![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-  <img
-    src="  <img
-    src="
-  />
-
-
-[![cwbcode](https://github-readme-stats.vercel.app/api/top-langs/?username=cwbcode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github.com/Cwbmachado/gift/blob/Prod/terminal.gif?raw=true" alt="Star Wars">
+</p>
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
