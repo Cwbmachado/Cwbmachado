@@ -3,6 +3,7 @@
  Bem vindo Devs
  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 
+
 <div align="centro" width="50">
 Sobre mim
 
@@ -10,6 +11,8 @@ Sobre mim
 - 🎓 Estudando Analise e Desenvolvimento de Sistemas.
 - 💼 Trabalhando como Estagiario Desenvolvedor Fullstack no Grupo UNINTER .
 - 🌱 Aprendendo mais sobre C#, SQLServer, JavaScript.
+<br>
+<br>
 
 ## Minhas Skills
 
@@ -45,7 +48,7 @@ Sobre mim
 ![notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
+<br>
 <p align="center">
   <img src="https://github.com/Cwbmachado/gift/blob/Prod/terminal.gif?raw=true" alt="Star Wars">
 </p>
