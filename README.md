@@ -8,9 +8,10 @@
 Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Analise e Desenvolvimento de Sistemas.
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas.
+- 🎓 Estudando Automação Industrial.
 - 💼 Trabalhou como Estagiario Desenvolvedor Fullstack no Grupo UNINTER .
-- 🌱 Aprendendo mais sobre C#, SQLServer,Nodejs,JavaScript,ReactNative.
+- 🌱 Aprendendo mais sobre C#, SQLServer,Nodejs,JavaScript,ReactNative e arduinos.
 <br>
 <br>
 
